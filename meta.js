@@ -6,4 +6,5 @@ document.write('\
     <meta name="apple-mobile-web-app-status-bar-style" content="black">\
     <link rel="apple-touch-icon" href="/assets/icon-ios.png">\
     <link rel="apple-touch-startup-image" href="/assets/startup-ios.png">\
+    <link rel="icon" type="image/png" href="/assets/favicon.png">\
 ');
